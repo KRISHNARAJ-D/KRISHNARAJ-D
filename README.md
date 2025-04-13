@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnaraj D</h1>
-<h3 align="center">A CSE student passionate about AI, Full Stack Development, and Smart Tech Solutions 🚀</h3>
+<h3 align="center">A AI&DS Student passionate about AI, Full Stack Development, and Smart Tech Solutions 🚀</h3>
 
 <p align="center">
 
@@ -35,7 +35,15 @@
 </p>
 
 ---
+---
 
+---
+
+## 🧑‍💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNARAJ-D&layout=compact&theme=tokyonight)
+
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRISHNARAJ-D&show_icons=true&theme=tokyonight" />
