@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnaraj D</h1>
-<h3 align="center">A AI&DS Student passionate about AI, Full Stack Development, and Smart Tech Solutions 🚀</h3>
+<h3 align="center">AI&DS Student passionate about AI, Full Stack Development, and Smart Tech Solutions 🚀</h3>
 
 <p align="center">
 
