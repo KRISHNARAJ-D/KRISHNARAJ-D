@@ -35,9 +35,6 @@
 </p>
 
 ---
----
-
----
 
 ## 🧑‍💻 Most Used Languages
 
@@ -67,8 +64,6 @@
 
 - 🛡️ **[Credit Card Fraud Detection](https://github.com/KRISHNARAJ-D/CREDIT-CARD-FRAUD-DETECTION)**  
   A machine learning-powered Flask web application that detects fraudulent transactions from uploaded CSVs using trained models.
-
----
 
 ---
 
