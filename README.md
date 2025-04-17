@@ -41,6 +41,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNARAJ-D&layout=compact&theme=tokyonight)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRISHNARAJ-D&show_icons=true&theme=tokyonight" />
