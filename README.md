@@ -17,7 +17,7 @@
   - 🥗 [Nutri Path](https://github.com/KRISHNARAJ-D/Nutri-Path): Personalized Nutrition & Food Recommendation
   - 🛡️ [Credit Card Fraud Detection](https://github.com/KRISHNARAJ-D/CREDIT-CARD-FRAUD-DETECTION)
 - 📬 Reach me at **krishnakrishna4123@gmail.com**
-- ⚡ Fun fact: I built my skills from gaming, live streams, and real-world project experience 😄
+- ⚡ Fun fact: I built my skills from gaming, and real-world project experience 😄
 
 
 ---
