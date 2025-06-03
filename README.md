@@ -84,7 +84,7 @@
 
 ## 📫 Let's Connect!
 
-- 📬 Email: krishnakrishna4123@gmail.com
+- 📬 Email: dkrishnaraj2005@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/krishnaraj-d-b156b5280/
 - 📍 Based in India | IST (GMT +5:30)
 
