@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <a href="mailto:krishnakrishna4123@gmail.com">
+  <a href="mailto:dkrishnaraj2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/CSE-Student-blue?style=flat-square" />
